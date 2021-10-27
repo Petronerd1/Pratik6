@@ -1,0 +1,16 @@
+C:\Users\ULAŞ\source\repos\Pratik6\AnimalSound\bin\Debug\net5.0\AnimalSound.exe
+C:\Users\ULAŞ\source\repos\Pratik6\AnimalSound\bin\Debug\net5.0\AnimalSound.deps.json
+C:\Users\ULAŞ\source\repos\Pratik6\AnimalSound\bin\Debug\net5.0\AnimalSound.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik6\AnimalSound\bin\Debug\net5.0\AnimalSound.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik6\AnimalSound\bin\Debug\net5.0\AnimalSound.dll
+C:\Users\ULAŞ\source\repos\Pratik6\AnimalSound\bin\Debug\net5.0\ref\AnimalSound.dll
+C:\Users\ULAŞ\source\repos\Pratik6\AnimalSound\bin\Debug\net5.0\AnimalSound.pdb
+C:\Users\ULAŞ\source\repos\Pratik6\AnimalSound\obj\Debug\net5.0\AnimalSound.csproj.AssemblyReference.cache
+C:\Users\ULAŞ\source\repos\Pratik6\AnimalSound\obj\Debug\net5.0\AnimalSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik6\AnimalSound\obj\Debug\net5.0\AnimalSound.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik6\AnimalSound\obj\Debug\net5.0\AnimalSound.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik6\AnimalSound\obj\Debug\net5.0\AnimalSound.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik6\AnimalSound\obj\Debug\net5.0\AnimalSound.dll
+C:\Users\ULAŞ\source\repos\Pratik6\AnimalSound\obj\Debug\net5.0\ref\AnimalSound.dll
+C:\Users\ULAŞ\source\repos\Pratik6\AnimalSound\obj\Debug\net5.0\AnimalSound.pdb
+C:\Users\ULAŞ\source\repos\Pratik6\AnimalSound\obj\Debug\net5.0\AnimalSound.genruntimeconfig.cache

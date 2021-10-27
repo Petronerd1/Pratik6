@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik6\ConsoleApp1.3\bin\Debug\net5.0\ConsoleApp1.3.exe
+C:\Users\ULAŞ\source\repos\Pratik6\ConsoleApp1.3\bin\Debug\net5.0\ConsoleApp1.3.deps.json
+C:\Users\ULAŞ\source\repos\Pratik6\ConsoleApp1.3\bin\Debug\net5.0\ConsoleApp1.3.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik6\ConsoleApp1.3\bin\Debug\net5.0\ConsoleApp1.3.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik6\ConsoleApp1.3\bin\Debug\net5.0\ConsoleApp1.3.dll
+C:\Users\ULAŞ\source\repos\Pratik6\ConsoleApp1.3\bin\Debug\net5.0\ref\ConsoleApp1.3.dll
+C:\Users\ULAŞ\source\repos\Pratik6\ConsoleApp1.3\bin\Debug\net5.0\ConsoleApp1.3.pdb
+C:\Users\ULAŞ\source\repos\Pratik6\ConsoleApp1.3\obj\Debug\net5.0\ConsoleApp1.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik6\ConsoleApp1.3\obj\Debug\net5.0\ConsoleApp1.3.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik6\ConsoleApp1.3\obj\Debug\net5.0\ConsoleApp1.3.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik6\ConsoleApp1.3\obj\Debug\net5.0\ConsoleApp1.3.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik6\ConsoleApp1.3\obj\Debug\net5.0\ConsoleApp1.3.dll
+C:\Users\ULAŞ\source\repos\Pratik6\ConsoleApp1.3\obj\Debug\net5.0\ref\ConsoleApp1.3.dll
+C:\Users\ULAŞ\source\repos\Pratik6\ConsoleApp1.3\obj\Debug\net5.0\ConsoleApp1.3.pdb
+C:\Users\ULAŞ\source\repos\Pratik6\ConsoleApp1.3\obj\Debug\net5.0\ConsoleApp1.3.genruntimeconfig.cache

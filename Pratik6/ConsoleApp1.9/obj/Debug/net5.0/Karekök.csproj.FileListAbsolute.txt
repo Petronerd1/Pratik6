@@ -1,0 +1,16 @@
+C:\Users\ULAŞ\source\repos\Pratik6\Karekök\bin\Debug\net5.0\Karekök.exe
+C:\Users\ULAŞ\source\repos\Pratik6\Karekök\bin\Debug\net5.0\Karekök.deps.json
+C:\Users\ULAŞ\source\repos\Pratik6\Karekök\bin\Debug\net5.0\Karekök.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik6\Karekök\bin\Debug\net5.0\Karekök.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik6\Karekök\bin\Debug\net5.0\Karekök.dll
+C:\Users\ULAŞ\source\repos\Pratik6\Karekök\bin\Debug\net5.0\ref\Karekök.dll
+C:\Users\ULAŞ\source\repos\Pratik6\Karekök\bin\Debug\net5.0\Karekök.pdb
+C:\Users\ULAŞ\source\repos\Pratik6\Karekök\obj\Debug\net5.0\Karekök.csproj.AssemblyReference.cache
+C:\Users\ULAŞ\source\repos\Pratik6\Karekök\obj\Debug\net5.0\Karekök.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik6\Karekök\obj\Debug\net5.0\Karekök.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik6\Karekök\obj\Debug\net5.0\Karekök.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik6\Karekök\obj\Debug\net5.0\Karekök.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik6\Karekök\obj\Debug\net5.0\Karekök.dll
+C:\Users\ULAŞ\source\repos\Pratik6\Karekök\obj\Debug\net5.0\ref\Karekök.dll
+C:\Users\ULAŞ\source\repos\Pratik6\Karekök\obj\Debug\net5.0\Karekök.pdb
+C:\Users\ULAŞ\source\repos\Pratik6\Karekök\obj\Debug\net5.0\Karekök.genruntimeconfig.cache
